@@ -699,7 +699,7 @@
     "Samples": "Зразки",
     "Remove light 0": "Видалити світло 0",
     "This is a rough scripting module": "Це грубий скриптовий модуль",
-        "Grid": "Сітка",
+    "Grid": "Сітка",
     "Loading human": "Завантаження людини",
     "Loading scene": "Завантаження сцени",
     "Loading main GUI": "Завантаження основного графічного інтерфейсу",
@@ -867,5 +867,8 @@
     "Tongueleft": "Язик вліво",
     "Tongueright": "Язик вправо",
     "Tonguepointup": "Кінчик язика вгору",
-    "Tonguepointdown": "Кінчик язика вниз"
+    "Tonguepointdown": "Кінчик язика вниз",
+    "MakeHuman default skeleton. A complex skeleton with detailed fingers, toes and facial bones for advanced animations.": "MakeHuman скелет за замовчуванням. Складний скелет з докладними пальцями, пальцями ніг і лицьовими кістками для просунутих анімацій.",
+    "If you want backgrounds to show up here, place the images in %s": "Якщо ви хочете, щоб фони відображалися тут, помістіть зображення в %s",
+    "Selected": "Вибрано"
 }
