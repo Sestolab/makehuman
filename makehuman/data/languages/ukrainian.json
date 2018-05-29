@@ -870,5 +870,6 @@
     "Tonguepointdown": "Кінчик язика вниз",
     "MakeHuman default skeleton. A complex skeleton with detailed fingers, toes and facial bones for advanced animations.": "MakeHuman скелет за замовчуванням. Складний скелет з докладними пальцями, пальцями ніг і лицьовими кістками для просунутих анімацій.",
     "If you want backgrounds to show up here, place the images in %s": "Якщо ви хочете, щоб фони відображалися тут, помістіть зображення в %s",
-    "Selected": "Вибрано"
+    "Selected": "Вибрано",
+    "Your model has been saved to %s.": "Ваша модель збережена в %s."
 }
