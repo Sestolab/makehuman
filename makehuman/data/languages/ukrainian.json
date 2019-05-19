@@ -903,5 +903,10 @@
     " %s": " %s",
     "Baking animation frame %s": "Випічка кадру анімації %s",
     "Switch Filter Mode": "Перемкнути режим фільтрування",
-    "AdditiveShading": "AdditiveShading"
+    "AdditiveShading": "AdditiveShading",
+    "Exporting %s": "Експортування %s",
+    "Exporting animations": "Експортування анімації",
+    "The mesh has been exported to": "Сітка була експортована в",
+    " %s.": " %s.",
+    "Screengrab saved to %s": "Захоплення екрану збережено в %s"
 }
